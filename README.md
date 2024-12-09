@@ -1,0 +1,1 @@
+# Azure-Real-Time-Sales-Insights-Pipeline
